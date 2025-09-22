@@ -123,7 +123,7 @@ I’m a curious explorer of code & design. I love:
 ---
 
 <a href="https://app.daily.dev/shariarahamed">
-  <img src="https://api.daily.dev/devcards/v2/26WSGkbVFiVHaP2wATOV1.png?type=wide&r=597" width="652" alt="Shariar Ahamed's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/26WSGkbVFiVHaP2wATOV1.png?type=wide&r=2oe" width="652" alt="Shariar Ahamed's Dev Card"/>
 </a>
 
 </div>
